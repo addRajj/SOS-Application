@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SosApp</string>
+    <string name="sos">SOS</string>
+    <string name="send_sos">Send SOS</string>
+    <string name="get_location">Get Location</string>
+    <string name="update_list">Update list</string>
+    <string name="update_the_list_for_your_emergency_contacts">* update the list, for your emergency contacts.</string>
+    <string name="please_update_your_location_before_accessing_the_send_button">* please update your location before, accessing the send button</string>
+</resources>
